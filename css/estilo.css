@@ -1,0 +1,45 @@
+ul li{
+    list-style: none;
+}
+
+header{
+    display: inline-flex;
+}
+
+nav ul{
+    display:flex;
+}
+
+.li{
+    justify-content: space-around;
+}
+
+button{
+    background-color:rgb(73, 112, 73) ;
+    color: white;
+    border-radius: 10px;
+}
+
+#seccion2{
+    display: flex;
+}
+
+#seccion3{
+    margin-top: 700px;
+    display: flex;
+    align-items: initial;
+}
+
+
+footer{
+    display: flex;
+    background-color: rgb(81, 136, 138);
+    color: white;
+}
+
+.redes{
+    display: flex;
+}
+body{
+    align-items: center;
+}
