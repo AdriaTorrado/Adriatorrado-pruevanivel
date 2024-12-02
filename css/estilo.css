@@ -40,6 +40,7 @@ footer{
 .redes{
     display: flex;
 }
-body{
+#web{
     align-items: center;
+    justify-content: center;
 }
